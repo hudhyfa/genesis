@@ -1,0 +1,70 @@
+{
+  "cars": [
+    {
+      "id": "G70",
+      "thumbnail": "https://assets.website-files.com/61688d9df9158cfe4e45fe44/619150f3e44b941b50e15892_c15-hompage-tout-u03-g70-630x358.jpg",
+      "fbimage": "https://assets.website-files.com/61688d9df9158cfe4e45fe44/616dc6e4c1f3890ffe6d1fe9_2022_genesis_g70_8.jpg",
+      "fbheading": "BORN TO MOVE.",
+      "fbcontent": "The G70 is the best yet! With its striking exterior, you'll be able to find your way in any situation. Get ready for an unforgettable drive with unmatched power and uncompromised design that will take center stage off of every road trip or commute time.* The HD touch screen makes navigation easy while other technologies like Launch Control are great ways to get more.",
+      "sbimage": "https://assets.website-files.com/61688d9df9158cfe4e45fe44/616f193f49bb223bf4d60a3a_DesignMilkStill6%20(1).png",
+      "sbheading": "HEIGHTENED SENSES",
+      "sbcontent": "The G70 has a suite of advanced safety technology that can help you avoid collisions. Sensors, radar and cameras all work together to process data in real time so drivers are less likely have an accident or make an error on their drive!",
+      "tbimage": "https://assets.website-files.com/61688d9df9158cfe4e45fe44/616f32efd36d7713fdf81cf3_Untitled-3%20(2).png"
+    },
+    {
+      "id": "G80",
+      "thumbnail": "https://assets.website-files.com/61688d9df9158cfe4e45fe44/619150f369a98a1be937b604_c15-hompage-tout-u03-g80-630x358.jpg",
+      "tbimage": "https://assets.website-files.com/61688d9df9158cfe4e45fe44/618c49e373c5cc808f7f604f_2022%20G80%20Footer.png",
+      "fbimage": "https://assets.website-files.com/61688d9df9158cfe4e45fe44/618c4a1c3ba8e0bdaeb30584_2022%20G80%20Driving.jpg",
+      "fbheading": "ARTFULLY DISRUPTIVE",
+      "fbcontent": "A prodigy among luxury sedans. From thoughtfully engineered architecture and dynamic lines, to supple interior and a sweeping fascia, the G80 knows how to make an entrance. The luxury midsize sedan’s ample width gives it an imposing presence, complemented by intelligent features for first-class comfort.",
+      "sbimage": "https://assets.website-files.com/61688d9df9158cfe4e45fe44/618c4a1c1db30a625a454e15_2022%20G80%20Interior.jpg",
+      "sbheading": "SEDUCTIVELY INNOVATIVE",
+      "sbcontent": "Crafted to feel uncomplicated, the G80 employs some of the most sophisticated tech on the market—a lot of it comes standard. Smaller touches such as multiple onboard USB outlets, available wireless device charging and customizable ambient lighting all speak to a surprising level of passion applied to often overlooked details."
+    },
+    {
+      "id": "E-G80",
+      "thumbnail": "https://assets.website-files.com/61688d9df9158cfe4e45fe44/6389296cadbd7b33be64276e_eg80.png",
+      "fbimage": "https://assets.website-files.com/61688d9df9158cfe4e45fe44/638926cbc7ebecd4024cee68_c30-overview-performance-my23-g80ev-vlp-u01-1440x640.jpeg",
+      "fbheading": "SPARK INTRIGUE",
+      "fbcontent": "An ideal blend of aerodynamic efficiency and indulgent luxury, every inch of its sleek, sophisticated shape exudes modern elegance. Just beyond the solid G-Matrix grille and hidden charging port, a spacious cabin embodies a “less is more” philosophy while offering an abundance of innovative amenities.",
+      "sbimage": "https://assets.website-files.com/61688d9df9158cfe4e45fe44/6389267d7b22807f6ee4a393_c30-overview-technology-my23-g80ev-vlp-u01-1440x640.jpeg",
+      "sbheading": "INGENUITY IN EVERY INCH",
+      "sbcontent": "Featuring a Premium Navigation System with 14.5' HD Screen, Wireless Device Charging,* and Remote Smart Parking Assist,* the Electrified G80 delivers a multifaceted driving experience beyond your expectations.",
+      "tbimage": "https://assets.website-files.com/61688d9df9158cfe4e45fe44/63892582af9a54651433aa5d_c30-overview-charging-my23-g80ev-vlp-u01-1440x640.jpeg"
+    },
+    {
+      "id": "G90",
+      "thumbnail": "https://assets.website-files.com/61688d9df9158cfe4e45fe44/6389282223787663e5a059a0_g90.png",
+      "tbimage": "https://assets.website-files.com/61688d9df9158cfe4e45fe44/6387c31c80589596579f97a6_g90%20top-p-2000.jpeg",
+      "fbimage": "https://assets.website-files.com/61688d9df9158cfe4e45fe44/637be2143243861e73050071_2023%20G90%202.jpg",
+      "fbheading": "DON’T TREAD LIGHTLY",
+      "fbcontent": "The all-new 2023 G90 stands alone at the top of its class, having been named the 2023 MotorTrend Car of the Year®. With timeless design and advanced technology converging, the G90 projects unrestrained refinement down to each luxurious detail.",
+      "sbimage": "https://assets.website-files.com/61688d9df9158cfe4e45fe44/637be2105c0f591b9f227606_2023%20G90%201.jpg",
+      "sbheading": "EXQUISITELY ELEVATED SPACE",
+      "sbcontent": "With a passenger experience unlike any other, the regal G90 offers a new level of world-class comfort and enjoyment, from its Easy Close power doors to its available front and rear massage seats with intelligent memory system. Breaking away from luxury standards, Genesis’ impeccable attention to detail makes for an unsurpassably alluring ride."
+    },
+    {
+      "id": "GV80",
+      "thumbnail": "https://assets.website-files.com/61688d9df9158cfe4e45fe44/6191552c7425538a1b41dc93_gv80.png",
+      "tbimage": "https://carcostcanada.com/blog/wp-content/uploads/2021/08/alt_2022_genesis_gv70_ccc2.jpg",
+      "fbimage": "https://assets.website-files.com/61688d9df9158cfe4e45fe44/6191552c7425538a1b41dc93_gv80.png",
+      "fbheading": "IGNITE YOUR INNER EXPLORER",
+      "fbcontent": "GV80 is equipped with high-performance capabilities that make for fun, powerful and truly dynamic driving on or off road. Experience the thrill of the available 3.5L Twin-Turbo V6 with 375 horsepower, or enjoy the seamless power of the standard 2.5L Inline 4 Turbocharged engine.",
+      "sbimage": "https://c4.wallpaperflare.com/wallpaper/766/896/8/4k-6k-suv-genesis-gv80-wallpaper-preview.jpg",
+      "sbheading": "DRIVE BRILLIANTLY",
+      "sbcontent": "Wired with brilliant, user-friendly technology, GV80 is equipped with an array of savant-like tech to enhance your driving experience every single day. Like Intelligent Speed Limit Assist,* which works with Smart Cruise Control with Stop and Go* to keep you informed of any changes to the speed limit, including in school and construction zones."
+    },
+    {
+      "thumbnail": "https://assets.website-files.com/61688d9df9158cfe4e45fe44/6191552ce394b55b849285b6_gv70.png",
+      "id": "GV70",
+      "fbimage": "https://assets.website-files.com/61688d9df9158cfe4e45fe44/6172cc32fd516d5284a2aef4_MY22_JK_0082.png",
+      "fbheading": "CLASS-LEADING STANDARD HORSEPOWER",
+      "fbcontent": "With a heavy focus on the driver, GV70’s quick reactions and immense power help you charge forward, thanks to a standard class-leading 300-hp engine, or the available 375-hp twin-turbo V6 engine.",
+      "sbimage": "https://assets.website-files.com/61688d9df9158cfe4e45fe44/6172ce20130cae761506ea79_MY22_JK_0234_1.0_Screen01.png",
+      "sbheading": "CONFIDENCE IS ALWAYS IN STYLE",
+      "sbcontent": "Creating a vehicle is one thing. But to get the most out of it, everything needs to work in harmony. Every line, shape and material, both inside and out of the GV70, have been carefully crafted, honed and perfected, resulting in a stunning design.",
+      "tbimage": "https://assets.website-files.com/61688d9df9158cfe4e45fe44/6172d9e7e0d7324b23e3696f_MY22_JK_0056.png"
+    }
+  ]
+}

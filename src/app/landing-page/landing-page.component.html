@@ -1,0 +1,53 @@
+<div class="hero-section">
+    <div class="hero-content">
+        <div class="hero-head">
+            <h1 class="hero-heading">
+                RESERVE YOUR
+                <br>
+                NEW GENESIS.
+            </h1>
+        </div>
+        <div class="hero-body">
+            <p class="hero-para">
+                Here at Genesis of Charlotte, it is our mission to be the automotive home of drivers in the Matthews, NC area.
+                We provide a seemless process for ordering your New Genesis at MSRP,
+                along with a vast selection of new and used vehicles,
+                exceptional car care and customer service with a smile!
+            </p>
+        </div>
+    </div>
+</div>
+<div class="product-section">
+    <div class="main-head">
+        <h2>GENESIS VEHICLES</h2>
+    </div>
+    <div class="product-menu" >
+        <div class="product-card" *ngFor="let car of cars | filter:carId:'id'">
+            <div class="product-image">
+                <img src={{car.thumbnail}} alt="">
+            </div>
+            <div class="product-title">
+                <div class="product-name">
+                    <h5>{{car.id}}</h5>
+                </div>
+                <div class="product-links">
+                    <div class="pro-link">
+                        <a routerLink="/genesis/view/{{car.id}}">EXPLORE</a>
+                    </div>
+                    <div class="pro-icon">
+                        <a routerLink="/genesis/update/{{car.id}}"><i class="fa-solid fa-wrench fa-sm" style="color: #ffffff;"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="product-filter">
+        <div class="product-search">
+            <label for="carModel">Enter the Model*</label>
+            <input type="text" (keyup)="search($event)" id="carModel">
+        </div>
+        <div class="product-addition">
+            <a routerLink="/genesis/add"><button type="submit">ADD NEW MODEL</button></a>
+        </div>
+    </div>
+</div>

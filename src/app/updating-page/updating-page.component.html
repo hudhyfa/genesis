@@ -1,0 +1,122 @@
+<div class="content">
+    <div class="content-box">
+        <div class="heading">
+            <h1>EDIT VEHICLE</h1>
+        </div>
+        <div class="content-form">
+            <div class="box">
+                <div class="labeller">
+                    <label for="">Model*</label>
+                </div>
+                <div class="inputter">
+                    <input type="text" [(ngModel)]="car.id" name="id">
+                </div>
+            </div>
+            <div class="box">
+                <div class="labeller">
+                    <label for="">Thumbnail*</label>
+                </div>
+                <div class="inputter">
+                    <input type="text"  [(ngModel)]="car.thumbnail" name="thumbnail">
+                </div>
+            </div>
+            <div class="box">
+                <div class="labeller">
+                    <label for="">View Image*</label>
+                </div>
+                <div class="inputter">
+                    <input type="text"  [(ngModel)]="car.tbimage" name="tbimage">
+                </div>
+            </div>
+        </div>
+        <div class="content-form">
+            <div class="box">
+                <div class="labeller">
+                    <label for="">fb image*</label>
+                </div>
+                <div class="inputter">
+                    <input type="text"  [(ngModel)]="car.fbimage" name="fbimage">
+                </div>
+            </div>
+            <div class="box">
+                <div class="labeller">
+                    <label for="">fb heading*</label>
+                </div>
+                <div class="inputter">
+                    <input type="text"  [(ngModel)]="car.fbheading" name="fbheading">
+                </div>
+            </div>
+            <div class="box">
+                <div class="labeller">
+                    <label for="">fb content*</label>
+                </div>
+                <div class="inputter">
+                    <input type="text"  [(ngModel)]="car.fbcontent" name="fbcontent">
+                </div>
+            </div>
+        </div>
+        <div class="content-form">
+            <div class="box">
+                <div class="labeller">
+                    <label for="">sb image*</label>
+                </div>
+                <div class="inputter">
+                    <input type="text"  [(ngModel)]="car.sbimage" name="sbimage">
+                </div>
+            </div>
+            <div class="box">
+                <div class="labeller">
+                    <label for="">sb heading*</label>
+                </div>
+                <div class="inputter">
+                    <input type="text"  [(ngModel)]="car.sbheading" name="sbheading">
+                </div>
+            </div>
+            <div class="box">
+                <div class="labeller">
+                    <label for="">sb content*</label>
+                </div>
+                <div class="inputter">
+                    <input type="text"  [(ngModel)]="car.sbcontent" name="sbcontent">
+                </div>
+            </div>
+        </div>
+        <div class="content-links">
+            <div class="content-link-one">
+                <a href=""><button (click)="updateCar()">UPDATE VEHICLE</button></a>
+            </div>
+            <div class="content-link-two">
+                <a href=""><button (click)="deleteCar()">DELETE VEHICLE</button></a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="content-preview">
+    <div class="preview-heading">
+        <h2>IMAGE PREVIEW</h2>
+    </div>
+    <div class="image-box-one">
+        <div class="model-name">
+            <h2>NEW 2023</h2>
+            <h3>GENESIS {{car.id}}</h3>
+        </div>
+        <div class="image-one">
+            <img src={{car.thumbnail}} alt="">
+        </div>
+        
+    </div>
+    <div class="image-box-two">
+        <div class="image-two">
+            <img src={{car.fbimage}} alt="">
+        </div>
+        <div class="image-three">
+            <img src={{car.sbimage}} alt="">
+        </div>
+    </div>
+    <div class="image-box-three">
+        <div class="image-four">
+            <img src={{car.tbimage}} alt="">
+        </div>
+    </div>
+</div>
+

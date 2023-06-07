@@ -1,0 +1,11 @@
+footer{
+    background-color: #333333;
+    height: 8.125rem;
+}
+
+.copyright h5{
+    color: #858585;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    padding: 30px;
+}
